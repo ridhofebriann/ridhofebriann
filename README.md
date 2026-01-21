@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 <p align="left">
- <a href="www.linkedin.com/in/m-ridho-febrian" target="_blank">
+ <a href="[www.linkedin.com/in/m-ridho-febrian](https://www.linkedin.com/in/m-ridho-febrian-a6a772385/)" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-m ridho febrian-logo=linkedin&logoColor=white" />
 </a>
 
