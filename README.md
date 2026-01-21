@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 <p align="left">
  <a href="https://www.linkedin.com/in/m-ridho-febrian-a6a772385/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-mridhofebrian-logo=linkedin&logoColor=white" />
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ouhridhoo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@idhoofbrian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridhogans69@gmail.com)
